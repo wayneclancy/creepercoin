@@ -1,0 +1,9 @@
+Building Creepercoin
+
+See doc/readme-qt.rst for instructions on building Creepercoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Creepercoin.
+
+See doc/build-*.txt for instructions on building creepercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Creepercoin.
