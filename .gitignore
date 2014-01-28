@@ -16,6 +16,7 @@ build/
 #qt 
 *.qm
 #creeper bins
+Makefile
 src/creepercoind
 qrc_bitcoin.cpp
 creepercoin-qt
